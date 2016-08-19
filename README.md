@@ -1,3 +1,3 @@
 # FUBAR
 
-# Team work at Code Academy Camp
+### Team work at Code Academy Camp
